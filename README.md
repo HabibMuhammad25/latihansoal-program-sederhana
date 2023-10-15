@@ -7,4 +7,7 @@ Part 1
 Part 2
 ![alt text](https://github.com/HabibMuhammad25/latihansoal-program-sederhana/blob/main/2.png?raw=true) 
 
+Part 3
+![alt text](https://github.com/HabibMuhammad25/latihansoal-program-sederhana/blob/main/3.png?raw=true) 
+
 
